@@ -14,3 +14,5 @@ One of the most common ways computers store memory is in a SR latch or Set/Reset
 A SR latch is composed of 2 NOR gates in which the output of one is going into the input of the other and the output of the second one is going back into the the first.
 
 This is a truth table on a NOR gate
+
+![nor-gate-truth-table](https://github.com/user-attachments/assets/8723d4c2-ea96-42db-b50c-bb270db5e6c9)
