@@ -16,3 +16,39 @@ A SR latch is composed of 2 NOR gates in which the output of one is going into t
 This is a truth table on a NOR gate
 
 ![nor-gate-truth-table](https://github.com/user-attachments/assets/8723d4c2-ea96-42db-b50c-bb270db5e6c9)
+
+as you can see the output is only 1 when both inputs are 0
+
+keeping this same logic lets look at a SR latch
+
+![zk3PI](https://github.com/user-attachments/assets/6df23dbb-36b1-4dd5-8331-5fd44fa1937e)
+
+as you can observe, both outputs can't be on. They switch back and forth depending on the state of the inputs
+
+We can use this concept to make many different electrical devices such as a vending machine
+
+
+
+#vending machine
+
+
+lets start with 2 buttons: a Vend button and a Coin button.
+Lets take the output of the vend button and lets connect it to the input of an AND gate (remember for AND gates both outputs must be 1 to output a 1)
+
+We want our user to insert a coin AND press the Vend button to receive there item.
+
+From the coin button we need to have an SR latch connected in which the output Q is going into the input of the same AND gate
+From Q we can connect a LED indicating that we have a coin inserted
+Finally we connect the output of the AND gate to an LED indicating that an item has been vended
+
+Now we have a working vending machine circuit but, notice after we vend an item the LEDs stay on.
+
+to fix this we need to reset the SR latch; if you notice we still have one input not connected to the reset side.
+
+We can simply take a wire going from the output of the AND gate and place a buffer before wiring it into the reset of the SR latch
+
+
+![Screenshot 2025-02-18 133038](https://github.com/user-attachments/assets/a504a83e-a6e5-48d2-8fea-dd4fadd3ec02)
+
+
+
