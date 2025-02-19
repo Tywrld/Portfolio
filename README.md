@@ -15,7 +15,7 @@ In this module we are trying to maximize the profits of chairs and table sales u
 2x+5y≤120
 
 
-4. and we only have a storage space of 50 items per day.
+4. and we only have a storage space of 50 items per day.  <br />
 x+y≤50
 
 We have 2 varibles:
