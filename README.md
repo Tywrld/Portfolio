@@ -3,6 +3,8 @@
 This is my Github portfolio page!! Feel free to explore 
 
 
+
+
 # Maximizing_Profits_using_LP
 
 In this module we are trying to maximize the profits of chairs and table sales using linear programming in Python.
@@ -32,3 +34,10 @@ ChairC = 5  <br />
 TableC = 20
 
 Using LP we can see that to maximize our profits we need to produce 44 Chairs and 6 Tables per day
+
+
+
+
+# SR Latches
+
+To read more about my understanding of SR latches please click the SR latches file.
