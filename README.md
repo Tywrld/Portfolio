@@ -11,7 +11,7 @@ In this module we are trying to maximize the profits of chairs and table sales u
 5x+20y≤600
 
 
-3. We are allotted 120 labor hours per day with each chair costing 2 hours to produce and table costing 5 hours to produce.
+3. We are allotted 120 labor hours per day with each chair costing 2 hours to produce and table costing 5 hours to produce.  <br />
 2x+5y≤120
 
 
