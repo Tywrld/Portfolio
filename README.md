@@ -22,13 +22,13 @@ We have 2 varibles:  <br />
 X = Num of chairs made per day  <br />
 Y = Num of tables made per day
 
-and 3 constraints:
-Wood availability <= 600
-Labor Hours       <= 120
+and 3 constraints:  <br />
+Wood availability <= 600  <br />
+Labor Hours       <= 120  <br />
 Storage space     <= 50
 
-Our Objective Function is the cost:
-ChairC = 5
+Our Objective Function is the cost:  <br />
+ChairC = 5  <br />
 TableC = 20
 
 Using LP we can see that to maximize our profits we need to produce 44 Chairs and 6 Tables per day
