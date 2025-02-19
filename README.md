@@ -18,7 +18,7 @@ In this module we are trying to maximize the profits of chairs and table sales u
 4. and we only have a storage space of 50 items per day.  <br />
 x+y≤50
 
-We have 2 varibles:
+We have 2 varibles:  <br />
 X = Num of chairs made per day
 Y = Num of tables made per day
 
