@@ -19,7 +19,7 @@ In this module we are trying to maximize the profits of chairs and table sales u
 x+y≤50
 
 We have 2 varibles:  <br />
-X = Num of chairs made per day
+X = Num of chairs made per day  <br />
 Y = Num of tables made per day
 
 and 3 constraints:
