@@ -35,6 +35,7 @@ TableC = 20
 
 Using LP we can see that to maximize our profits we need to produce 44 Chairs and 6 Tables per day
 
+*Thease numbers were randomly generated using ChatGPT may or may not reflect reflect a real company*
 
 
 
