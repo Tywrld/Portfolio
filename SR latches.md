@@ -51,4 +51,8 @@ We can simply take a wire going from the output of the AND gate and place a buff
 ![Screenshot 2025-02-18 133038](https://github.com/user-attachments/assets/a504a83e-a6e5-48d2-8fea-dd4fadd3ec02)
 
 
+![IMG_1892](https://github.com/user-attachments/assets/0e3720af-bdb3-4a8a-9fe4-4c1fa942c057)
+
+![IMG_1890](https://github.com/user-attachments/assets/91b1732b-d0d2-41d4-ae76-8f8bcdeb4cb1)
+
 
