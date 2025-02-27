@@ -49,3 +49,5 @@ To read more about my understanding of SR latches please click the SR latches fi
 # refrences:
 Justice, M. (2020). How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine. No Starch Press.
 
+Columbia University. (n.d.). IBM 609 electronic punched card calculator (1954). Columbia University Computing History. https://www.columbia.edu/cu/computinghistory/609.html
+
