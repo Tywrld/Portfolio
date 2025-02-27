@@ -48,11 +48,27 @@ to fix this we need to reset the SR latch; if you notice we still have one input
 We can simply take a wire going from the output of the AND gate and place a buffer before wiring it into the reset of the SR latch
 
 
+#These are the picture to my SR latch
 ![Screenshot 2025-02-18 133038](https://github.com/user-attachments/assets/a504a83e-a6e5-48d2-8fea-dd4fadd3ec02)
 
 
 ![IMG_1892](https://github.com/user-attachments/assets/0e3720af-bdb3-4a8a-9fe4-4c1fa942c057)
 
 ![IMG_1890](https://github.com/user-attachments/assets/91b1732b-d0d2-41d4-ae76-8f8bcdeb4cb1)
+
+#These are the pictures to the vending machine 
+
+#No button is pressed:
+![IMG_20250227_101200](https://github.com/user-attachments/assets/4a54d570-c0d4-4069-a499-3fdbdbbca51f)
+
+
+#Coin button is pressed and the machine remembers:
+![IMG_20250227_101206](https://github.com/user-attachments/assets/4c76f433-ef4e-43be-991d-46f0418f12c3)
+
+
+#Vend button is pressed and the machine is reset:
+![IMG_20250227_101247](https://github.com/user-attachments/assets/32775045-0602-4a7c-82b4-e99a611ef0f2)
+
+
 
 
