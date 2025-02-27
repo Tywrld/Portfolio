@@ -42,3 +42,10 @@ Using LP we can see that to maximize our profits we need to produce 44 Chairs an
 # SR Latches
 
 To read more about my understanding of SR latches please click the SR latches file.
+
+
+
+
+#refrences:
+Justice, M. (2020). How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine. No Starch Press.
+
