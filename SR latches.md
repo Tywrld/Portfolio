@@ -59,15 +59,17 @@ We can simply take a wire going from the output of the AND gate and place a buff
 #These are the pictures to the vending machine 
 
 #No button is pressed:
-![IMG_20250227_101200](https://github.com/user-attachments/assets/4a54d570-c0d4-4069-a499-3fdbdbbca51f)
+![Vending machine pic 1](https://github.com/user-attachments/assets/95c4c607-a59d-4ee8-a8a4-740d8c3f8da8)
 
 
 #Coin button is pressed and the machine remembers:
-![IMG_20250227_101206](https://github.com/user-attachments/assets/4c76f433-ef4e-43be-991d-46f0418f12c3)
+![Vending machine pic 2](https://github.com/user-attachments/assets/8d60d364-bed4-4e35-b857-336cd2489d3b)
+
 
 
 #Vend button is pressed and the machine is reset:
-![IMG_20250227_101247](https://github.com/user-attachments/assets/32775045-0602-4a7c-82b4-e99a611ef0f2)
+![Vending machine pic 3](https://github.com/user-attachments/assets/bfea73f6-4856-4774-85f0-7175b33ce1ef)
+
 
 
 
