@@ -46,6 +46,16 @@ To read more about my understanding of SR latches please click the SR latches fi
 # Raspberry Pi
 
 
+# Neural Networks
+
+A neural network or NN is a machine learning algroithm that uses series of interconnected nodes to evaluate data. It's kinda like our brains and how we have neurons that bring signals to other parts of it
+
+The simple components of a Neural Network is as follows:
+Input layer- Artificial neurons recieve input or direction from other artificial neurons
+Hidden Layer- Usally contains nodes that process the input layer nodes. The hidden layer usally contains multiple layers
+Output Layer- Gives an output thats different than whats put in
+
+If you navigate to my Neural Network file you can find more examples and more descriptions 
 
 
 
