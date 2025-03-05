@@ -2,6 +2,7 @@
 
 This is my Github portfolio page!! Feel free to explore 
 
+Here you'd information about Electronics, AI, Math, and much more!!
 
 
 
