@@ -1,13 +1,13 @@
-#SR latch
+# SR latch
 
 
 
-#How do computers remember?
+# How do computers remember?
 
 Computers can remember various numbers and store them as bits. They can do this by using gates and latches. Latches hold information unless they are changed.
 By connecting multiple latches together you can store larger bits of memory 
 
-#What is a SR latch?
+# What is a SR latch?
 
 One of the most common ways computers store memory is in a SR latch or Set/Reset latch. But to understand how they work we first must decontruct it.
 
@@ -29,7 +29,7 @@ We can use this concept to make many different electrical devices such as a vend
 
 
 
-#vending machine
+# vending machine
 
 
 lets start with 2 buttons: a Vend button and a Coin button.
@@ -48,7 +48,7 @@ to fix this we need to reset the SR latch; if you notice we still have one input
 We can simply take a wire going from the output of the AND gate and place a buffer before wiring it into the reset of the SR latch
 
 
-#These are the picture to my SR latch
+# These are the picture to my SR latch
 ![Screenshot 2025-02-18 133038](https://github.com/user-attachments/assets/a504a83e-a6e5-48d2-8fea-dd4fadd3ec02)
 
 
@@ -56,18 +56,18 @@ We can simply take a wire going from the output of the AND gate and place a buff
 
 ![IMG_1890](https://github.com/user-attachments/assets/91b1732b-d0d2-41d4-ae76-8f8bcdeb4cb1)
 
-#These are the pictures to the vending machine 
+# These are the pictures to the vending machine 
 
-#No button is pressed:
+# No button is pressed:
 ![Vending machine pic 1](https://github.com/user-attachments/assets/95c4c607-a59d-4ee8-a8a4-740d8c3f8da8)
 
 
-#Coin button is pressed and the machine remembers:
+# Coin button is pressed and the machine remembers:
 ![Vending machine pic 2](https://github.com/user-attachments/assets/8d60d364-bed4-4e35-b857-336cd2489d3b)
 
 
 
-#Vend button is pressed and the machine is reset:
+# Vend button is pressed and the machine is reset:
 ![Vending machine pic 3](https://github.com/user-attachments/assets/bfea73f6-4856-4774-85f0-7175b33ce1ef)
 
 
