@@ -1,3 +1,14 @@
+# Raspberry Pi
+
+
+![Screenshot 2025-03-06 130717](https://github.com/user-attachments/assets/147cd33e-471d-4c87-b617-61da12f5bbc1)
+
+
+
+
+
+
+
 # Different Raspberry Pi Modules
 
 ![RaspberryPi compon](https://github.com/user-attachments/assets/d8318888-b0fb-4b4f-8198-da6557cf501d)
